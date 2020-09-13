@@ -1,5 +1,8 @@
 
-<h2 align="center">Hello World! I'm Taneem Jan. 👋</h2>
+<h2 >Hello, World!👋</h2>
+<p align="center">
+ <img  width="1000" height="280" src="https://github.com/taneemishere/taneemishere/blob/master/social/myHeader.jpg">
+</p>
 <p align="center">Currently I'm pursuing my Bachelor Studies in Computer Science from University of Engineering and Technology Peshawar👨‍🎓. I'm passionate about areas of Artificial Intelligence like deep learning and reinforcement as well as the genetic alorithms. Also I'm really interested in robotics :robot: and how we can use deep learning to actually teach them to work automatically. And I have much of the attraction towards electronics as well and so I'm hoping to do some work in this feild as well. 
 </p>
 
@@ -7,8 +10,10 @@
 
 <p align="center"><a href="https://twitter.com/taneemishere"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://linkedin.com/in/taneem-jan-2a7b36118"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
-<p align="center" The feilds I am interested more>
-<img src="https://img.shields.io/badge/Artificial Intelligence-black"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<p align="center">The fields I'm interested. </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Artificial Intelligence-black"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Convolutional Neural Networks-gray"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
 </p>
 <hr>
 
