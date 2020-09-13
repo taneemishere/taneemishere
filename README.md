@@ -1,7 +1,7 @@
 
 <h2 >Hello, World!👋</h2>
 <p align="center">
- <img  width="1000" height="280" src="https://github.com/taneemishere/taneemishere/blob/master/social/myHeader.jpg">
+ <img  width="1000" height="250" src="https://github.com/taneemishere/taneemishere/blob/master/social/myHeader.jpg">
 </p>
 <p align="center">Currently I'm pursuing my Bachelor Studies in Computer Science from University of Engineering and Technology Peshawar👨‍🎓. I'm passionate about areas of Artificial Intelligence like deep learning and reinforcement as well as the genetic alorithms. Also I'm really interested in robotics :robot: and how we can use deep learning to actually teach them to work automatically. And I have much of the attraction towards electronics as well and so I'm hoping to do some work in this feild as well. 
 </p>
