@@ -8,9 +8,9 @@
 
 <p align="center">Here are the links where you can reach out to me. </p>
 
-<p align="center"><a href="https://twitter.com/taneemishere"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://linkedin.com/in/taneem-jan-2a7b36118"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
+<p align="center"><a href="https://twitter.com/taneemishere"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/taneemishere"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
-<p align="center">The fields I'm interested. </p>
+<p align="center">The fields I'm interested in. </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Artificial Intelligence-black"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Convolutional Neural Networks-gray"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
